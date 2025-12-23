@@ -14,23 +14,23 @@ The Solar-Piezo Hybrid Electric Charging System presents an innovative solution 
 
 ### Micro-Controller: ESP32
 
-
+<img width="744" height="556" alt="Image" src="https://github.com/user-attachments/assets/40cbdedb-5fd0-4b47-a17e-a899ed185809" />
 
 ### Solar Panel
 
-
+<img width="683" height="624" alt="Image" src="https://github.com/user-attachments/assets/5bb17abf-ae2b-4890-8319-bfa34ff97453" />
 
 ### Piezoelectric Sensors
 
-
+<img width="668" height="476" alt="Image" src="https://github.com/user-attachments/assets/be9daaf6-0bb2-4195-b5da-c9bd5edd33b4" />
 
 ### 3.7V Li-ion Batterries
 
-
+<img width="638" height="434" alt="Image" src="https://github.com/user-attachments/assets/44c3e90d-27ca-4bf7-8a9c-b71bbf525926" />
 
 ### LCD Display (16X2)
 
-
+<img width="614" height="459" alt="Image" src="https://github.com/user-attachments/assets/10c13249-1a06-4b89-9941-10764a786960" />
 
 ## Advantages
 
