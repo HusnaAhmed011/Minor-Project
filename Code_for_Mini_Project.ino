@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3JNDXghUf"
+#define BLYNK_TEMPLATE_ID "$$$$$$$$$$$$$$$$$$"
 #define BLYNK_TEMPLATE_NAME "Solar Piezo Hybrid Power Charging System"
-#define BLYNK_AUTH_TOKEN "aLEwk5d7VIVQan-kqo-HqvmBZklIAzBT"
+#define BLYNK_AUTH_TOKEN "@@@@@@@@@@@@@@@"
 
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
@@ -11,8 +11,8 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 // Blynk
 BlynkTimer timer;
-const char* ssid = "Galaxy A14";
-const char* pass = "123456789";
+const char* ssid = "*********";
+const char* pass = "##########";
 
 float solarVoltage = 0;
 float piezoVoltage = 0;
